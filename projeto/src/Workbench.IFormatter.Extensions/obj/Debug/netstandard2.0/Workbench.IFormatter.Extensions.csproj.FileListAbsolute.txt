@@ -1,0 +1,9 @@
+D:\dio\DesignPatternSamples\src\Workbench.IFormatter.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.deps.json
+D:\dio\DesignPatternSamples\src\Workbench.IFormatter.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.dll
+D:\dio\DesignPatternSamples\src\Workbench.IFormatter.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.pdb
+D:\dio\DesignPatternSamples\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.csprojAssemblyReference.cache
+D:\dio\DesignPatternSamples\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.AssemblyInfoInputs.cache
+D:\dio\DesignPatternSamples\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.AssemblyInfo.cs
+D:\dio\DesignPatternSamples\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.csproj.CoreCompileInputs.cache
+D:\dio\DesignPatternSamples\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.dll
+D:\dio\DesignPatternSamples\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.pdb

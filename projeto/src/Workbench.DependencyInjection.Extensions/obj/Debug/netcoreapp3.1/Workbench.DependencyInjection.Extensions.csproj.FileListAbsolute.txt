@@ -1,0 +1,9 @@
+D:\dio\DesignPatternSamples\src\Workbench.DependencyInjection.Extensions\bin\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.deps.json
+D:\dio\DesignPatternSamples\src\Workbench.DependencyInjection.Extensions\bin\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.dll
+D:\dio\DesignPatternSamples\src\Workbench.DependencyInjection.Extensions\bin\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.pdb
+D:\dio\DesignPatternSamples\src\Workbench.DependencyInjection.Extensions\obj\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.csprojAssemblyReference.cache
+D:\dio\DesignPatternSamples\src\Workbench.DependencyInjection.Extensions\obj\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.AssemblyInfoInputs.cache
+D:\dio\DesignPatternSamples\src\Workbench.DependencyInjection.Extensions\obj\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.AssemblyInfo.cs
+D:\dio\DesignPatternSamples\src\Workbench.DependencyInjection.Extensions\obj\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.csproj.CoreCompileInputs.cache
+D:\dio\DesignPatternSamples\src\Workbench.DependencyInjection.Extensions\obj\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.dll
+D:\dio\DesignPatternSamples\src\Workbench.DependencyInjection.Extensions\obj\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.pdb

@@ -1,0 +1,12 @@
+D:\dio\DesignPatternSamples\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.deps.json
+D:\dio\DesignPatternSamples\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.dll
+D:\dio\DesignPatternSamples\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.pdb
+D:\dio\DesignPatternSamples\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.dll
+D:\dio\DesignPatternSamples\src\Workbench.IDistributedCache.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.pdb
+D:\dio\DesignPatternSamples\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.csprojAssemblyReference.cache
+D:\dio\DesignPatternSamples\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.AssemblyInfoInputs.cache
+D:\dio\DesignPatternSamples\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.AssemblyInfo.cs
+D:\dio\DesignPatternSamples\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.csproj.CoreCompileInputs.cache
+D:\dio\DesignPatternSamples\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.csproj.CopyComplete
+D:\dio\DesignPatternSamples\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.dll
+D:\dio\DesignPatternSamples\src\Workbench.IDistributedCache.Extensions\obj\Debug\netstandard2.0\Workbench.IDistributedCache.Extensions.pdb

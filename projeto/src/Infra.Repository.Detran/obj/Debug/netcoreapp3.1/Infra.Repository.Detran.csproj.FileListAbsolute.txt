@@ -1,0 +1,16 @@
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.deps.json
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.dll
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.pdb
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.dll
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.dll
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.dll
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.pdb
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.pdb
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.pdb
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.csprojAssemblyReference.cache
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.AssemblyInfoInputs.cache
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.AssemblyInfo.cs
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.csproj.CoreCompileInputs.cache
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.csproj.CopyComplete
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.dll
+D:\dio\DesignPatternSamples\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.pdb

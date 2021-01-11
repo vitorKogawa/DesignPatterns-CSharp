@@ -1,0 +1,12 @@
+D:\dio\DesignPatternSamples\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.deps.json
+D:\dio\DesignPatternSamples\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.dll
+D:\dio\DesignPatternSamples\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.pdb
+D:\dio\DesignPatternSamples\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Comparer.dll
+D:\dio\DesignPatternSamples\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Comparer.pdb
+D:\dio\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csprojAssemblyReference.cache
+D:\dio\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.AssemblyInfoInputs.cache
+D:\dio\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.AssemblyInfo.cs
+D:\dio\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csproj.CoreCompileInputs.cache
+D:\dio\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csproj.CopyComplete
+D:\dio\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.dll
+D:\dio\DesignPatternSamples\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.pdb
